@@ -30,11 +30,8 @@
 * Aluno 1 - Eduarda Dantas
 * Aluno 2 - Isabelle Franco
 * Aluno 3 - Maria Clara
-* Aluno 4 - Valéria Oliveira
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Aluno 4 - Valéria Oliveira (10420562)
+
 
 
 # Descrição do Projeto
