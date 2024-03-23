@@ -47,8 +47,7 @@ Dado os fatores apresentados, trataremos em nosso projeto possíveis soluções 
 &gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Análise de Requisitos
-
+*&lt;
 Requisitos Funcionais
 
 • Sistema de Pedido:
