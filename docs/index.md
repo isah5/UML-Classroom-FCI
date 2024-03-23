@@ -76,7 +76,7 @@ Integrar sistemas de pagamento seguros para facilitar transações rápidas e se
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+*&lt;https://lucid.app/lucidchart/f0d7fda8-8900-4cbd-9b8a-db9efaf4ddff/edit?invitationId=inv_063d0c02-a77a-4f62-ac48-d8df1bac6e70&gt;*
 
 # Diagrama de Casos de Uso
 
