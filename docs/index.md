@@ -28,7 +28,7 @@
 # Autores
 
 * Aluno 1 - Eduarda Dantas
-* Aluno 2 - Isabelle Franco
+* Aluno 2 - Isabelle Franco (10425395)
 * Aluno 3 - Maria Clara
 * Aluno 4 - Valéria Oliveira (10420562)
 
