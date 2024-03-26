@@ -76,7 +76,8 @@ Integrar sistemas de pagamento seguros para facilitar transações rápidas e se
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;![Captura de tela 2024-03-26 203630](https://github.com/isah5/UML-Classroom-FCI/assets/145621471/3f28766b-060b-44b4-b7b5-0e3b5cf27514)
+&gt;*
 
 # Descrição dos Casos de Uso
 
