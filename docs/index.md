@@ -64,7 +64,9 @@ Criar um sistema que tenha como base o ratreamento de entregas com base na proxi
 
 # Diagrama de Atividades
 
-*&lt;https://lucid.app/lucidchart/f0d7fda8-8900-4cbd-9b8a-db9efaf4ddff/edit?invitationId=inv_063d0c02-a77a-4f62-ac48-d8df1bac6e70&gt;*
+*&lt;https://lucid.app/lucidchart/f0d7fda8-8900-4cbd-9b8a-db9efaf4ddff/edit?invitationId=inv_063d0c02-a77a-4f62-ac48-d8df1bac6e70
+![Diagrama de Atividades - ENG  DE SOFTWARE](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/c7aa3dc2-d720-410a-96ba-21ef5700def4)&gt;*
+
 
 # Diagrama de Casos de Uso
 
