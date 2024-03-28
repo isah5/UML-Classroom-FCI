@@ -73,7 +73,8 @@ Criar um sistema que tenha como base o ratreamento de entregas com base na proxi
 
 # Descrição dos Casos de Uso
 
-*&lt;[ENG.(especificação_de_caso).pdf](https://github.com/isah5/UML-Classroom-FCI/files/14793974/ENG.especificacao_de_caso.pdf) ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/17dd762a-006f-4e30-93ea-adead6faf283)
+*&lt;[ENG.(especificação_de_caso).pdf](https://github.com/isah5/UML-Classroom-FCI/files/14793974/ENG.especificacao_de_caso.pdf) ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/64d68ae5-b520-4a97-829e-7a7008a19816)
+ ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/b073b12e-7a4d-47c3-80a9-9271b826898b)
  ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/3c07a3fb-8d75-4081-838f-69f6f066194c)
 
 
