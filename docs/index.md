@@ -59,7 +59,7 @@ Encaminhar rapidamente o pedido para a loja mais próxima para uma entrega efici
 Manter um histórico detalhado de pedidos para facilitar o rastreamento e gerar relatórios úteis.
 
 • Localização da Loja de Pizza:
-Criar um sistema que tenha como base o ratreamento de entregas com base na proximidade da pizzaria com seus clientes, para assim, fornecer atualizações em tempo real sobre o status da entrega, incluindo o tempo estimado de chegada e quaisquer possíveis atrasos.
+O objetivo principal é criar um sistema que tenha como base o rastreamento de entregas com base na proximidade da pizzaria com seus clientes, para assim, fornecer atualizações em tempo real sobre o status da entrega, incluindo o tempo estimado de chegada e quaisquer possíveis atrasos.
 &gt;*
 
 # Diagrama de Atividades
