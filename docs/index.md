@@ -68,7 +68,7 @@ O objetivo principal é criar um sistema que tenha como base o rastreamento de e
 
 # Diagrama de Casos de Uso
 
-*&lt;![Captura de tela 2024-03-26 203630]
+*&lt;
 &gt;*
 
 # Descrição dos Casos de Uso
