@@ -57,25 +57,23 @@ Receber, processar e confirmar os pedidos em tempo real para garantir uma experi
 Determinar automaticamente a loja Pizza-Express mais próxima com base na localização do cliente.
 Encaminhar rapidamente o pedido para a loja mais próxima para uma entrega eficiente.
 Manter um histórico detalhado de pedidos para facilitar o rastreamento e gerar relatórios úteis.
-
-• Localização da Loja de Pizza:
-O objetivo principal é criar um sistema que tenha como base o rastreamento de entregas com base na proximidade da pizzaria com seus clientes, para assim, fornecer atualizações em tempo real sobre o status da entrega, incluindo o tempo estimado de chegada e quaisquer possíveis atrasos.
+O objetivo principal é criar um sistema que tenha como base o rastreamento de entregas com base na proximidade da pizzaria com seus clientes, para assim, fornecer atualizações em tempo real sobre o status da entrega, incluindo o tempo estimado de chegada e quaisquer possíveis atrasos.Além de implementar sistemas de rastreamento em tempo real para monitorar o status dos pedidos, desde o momento em que são feitos até a entrega ao cliente. 
 &gt;*
 
 # Diagrama de Atividades
 
-*&lt;https://lucid.app/lucidchart/f0d7fda8-8900-4cbd-9b8a-db9efaf4ddff/edit?invitationId=inv_063d0c02-a77a-4f62-ac48-d8df1bac6e70
+*&lt;
 ![Diagrama de Atividades - ENG  DE SOFTWARE](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/c7aa3dc2-d720-410a-96ba-21ef5700def4)&gt;*
 
 
 # Diagrama de Casos de Uso
 
-*&lt;![Captura de tela 2024-03-26 203630](https://github.com/isah5/UML-Classroom-FCI/assets/145621471/3f28766b-060b-44b4-b7b5-0e3b5cf27514)
+*&lt;![Captura de tela 2024-03-26 203630]
 &gt;*
 
 # Descrição dos Casos de Uso
 
-*&lt;[ENG.(especificação_de_caso).pdf](https://github.com/isah5/UML-Classroom-FCI/files/14793974/ENG.especificacao_de_caso.pdf) ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/64d68ae5-b520-4a97-829e-7a7008a19816)
+*&lt;[ENG.(especificação_de_caso).pdf]
  ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/b073b12e-7a4d-47c3-80a9-9271b826898b)
  ![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/3c07a3fb-8d75-4081-838f-69f6f066194c)
 
