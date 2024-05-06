@@ -86,7 +86,8 @@ Descrição do comportamento entre os atores/resquisitos&gt;*
 # Diagrama de Sequência
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
-![Captura de tela_6-5-2024_181448_](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/0634efc7-546f-44a4-bfcd-8c7e4b194ccd)
+![image](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/d4d708d3-a6c9-4a72-979a-89f7724591ef)
+
 
 
 
