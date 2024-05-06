@@ -68,7 +68,10 @@ O objetivo principal é criar um sistema que tenha como base o rastreamento de e
 
 # Diagrama de Casos de Uso
 
-*&lt;
+*&lt;![partedecima](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/b095f361-1247-4633-8834-0284b1370b64)
+
+![partedeinferior](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/0cf7665c-027b-4d46-9089-701d72df0002)
+
 &gt;*
 
 # Descrição dos Casos de Uso
