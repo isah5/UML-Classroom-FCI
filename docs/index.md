@@ -94,6 +94,7 @@ Descrição do comportamento entre os atores/resquisitos&gt;*
 # Diagrama de Classes
 
 *&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Diagrama de Classe](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/40430576-6445-4037-8423-6159fe8de8ce)
 
 # Diagrama de Estados
 
