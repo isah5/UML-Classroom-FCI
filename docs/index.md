@@ -110,3 +110,5 @@ Descrição do comportamento entre os atores/resquisitos&gt;*
 # Referências
 
 *&lt;Lista de referências&gt;*
+Pressman, R. S., & Maxim, B. R. (2021). Engenharia de software (9th ed.). 
+https://www.youtube.com/watch?v=C3xYBT3o_5k&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ
