@@ -100,12 +100,13 @@ Descrição do comportamento entre os atores/resquisitos&gt;*
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
-![ENGENHARIA DE SOFTWARE DIAGRAMA](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/88ef8a51-c497-4464-abd4-e1397a363380)
+![diagram (1)](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/62f12473-af39-4ea2-87a0-b58b9b1c67a3)
+
 
 # Diagrama de Implantação
 
 *&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
+![ENGENHARIA DE SOFTWARE DIAGRAMA](https://github.com/isah5/UML-Classroom-FCI/assets/162518972/88ef8a51-c497-4464-abd4-e1397a363380)
 # Referências
 
 *&lt;Lista de referências&gt;*
